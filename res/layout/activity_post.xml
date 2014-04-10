@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <EditText
+        android:id="@+id/blogEditText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:hint="@string/I_Am_Feeling_Happy"
+        android:padding="10dp"
+        android:gravity="top"
+        android:textAlignment="viewStart"
+        android:textSize="20sp" >
+
+        <requestFocus />
+    </EditText>
+
+</RelativeLayout>

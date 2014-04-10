@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/ic_action_refresh"
+        android:showAsAction="always"
+        android:title="@string/refresh">
+    </item>
+    <item
+        android:id="@+id/action_new"
+        android:icon="@drawable/ic_action_new"
+        android:showAsAction="always"
+        android:title="@string/newBlog">
+    </item>
+    <item
+        android:id="@+id/saveMenu"
+        android:showAsAction="always"
+        android:title="@string/save">
+    </item>
+        <item
+        android:id="@+id/cancelMenu"
+        android:showAsAction="always"
+        android:title="@string/cancel">
+    </item>
+
+</menu>

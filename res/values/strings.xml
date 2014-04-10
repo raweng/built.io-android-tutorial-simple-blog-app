@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BuiltBlog</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Enter_Your_Blog_Post">Enter Your Blog Post :- </string>
+    <string name="I_Am_Feeling_Happy">I am feeling happy!!!</string>
+    <string name="save">save</string>
+    <string name="cancel">Cancel</string>
+    <string name="refresh">Refresh</string>
+    <string name="newBlog">NewBlog</string>
+
+</resources>
